@@ -1,0 +1,5 @@
+exportPattern("^[[:alpha:]]+")
+#exportPattern("^[[:alpha:]]+")
+export(LoadFile)
+import(utils,data.table)
+#S3method(methodName,className)

@@ -1,0 +1,12 @@
+Package: han1Korea
+Type: Package
+Title: Load data files in folder
+Version: 0.1.0
+Author: heeseon.han South Korea
+Maintainer: heeseon.han <ahahogam@gmail.com>
+Description: It reads several CSV files in the folder and creates data output.
+Depends: data.table
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: TRUE
+RoxygenNote: 6.0.1
